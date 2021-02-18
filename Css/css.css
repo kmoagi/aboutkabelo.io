@@ -66,13 +66,20 @@ html, body {
 
 
 
-  /* personal info */
+
   .avatar {
     text-align: center;
+    height: 25%;
+    
     }
-  .avatar-img {
-    /* border: 2px solid tomato; */
-    border-radius: 50%;
+  .img-thumbnail{
+    border-radius: 25%;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
   }
   
   .name {
